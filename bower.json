@@ -1,0 +1,20 @@
+{
+  "name": "inspection",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kogai/cardmk",
+  "authors": [
+    "小飼慎一"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~0.11.0",
+    "vue-validator": "~0.10.0"
+  }
+}

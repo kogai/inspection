@@ -1,0 +1,22 @@
+{
+  "name": "inspection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "browserify -t debowerify -d index.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kogai@github.com/kogai/cardmk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogai/cardmk/issues"
+  },
+  "homepage": "https://github.com/kogai/cardmk",
+  "dependencies": {
+    "debowerify": "^0.9.1"
+  }
+}
